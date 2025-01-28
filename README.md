@@ -13,7 +13,7 @@ Api de Gerenciamento de Tarefas
 Siga os passos abaixo para rodar a aplicação em ambiente de desenvolvimento:
 
 - Clone esse repositório:
-  $ git clone
+  $ git clone https://github.com/Gabriel02ps/nestjs-api-task.git
 
 - Entre na pasta:
   $ cd nestjs-api-task
